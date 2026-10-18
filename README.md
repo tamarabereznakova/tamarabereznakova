@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./header.svg" alt="tamara berezňáková" width="100%"/>
+  <img src="./header(1).svg" alt="tamara berezňáková" width="100%"/>
 </p>
 
 <p align="center">
@@ -35,26 +35,10 @@
 <img src="./title-skills.svg" width="100%"/>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Java-e2c2d2?style=flat-square&logoColor=0C0F17"/>
-<img src="https://img.shields.io/badge/Python-e2c2d2?style=flat-square&logoColor=0C0F17"/>
-<img src="https://img.shields.io/badge/JavaScript-e2c2d2?style=flat-square&logoColor=0C0F17"/>
-<img src="https://img.shields.io/badge/C-e2c2d2?style=flat-square&logoColor=0C0F17"/>
-<img src="https://img.shields.io/badge/HTML-e2c2d2?style=flat-square&logoColor=0C0F17"/>
-<img src="https://img.shields.io/badge/CSS-e2c2d2?style=flat-square&logoColor=0C0F17"/>
-<img src="https://img.shields.io/badge/SQL-b26c86?style=flat-square&logoColor=0C0F17"/>
-<img src="https://img.shields.io/badge/PostgreSQL-b26c86?style=flat-square&logoColor=0C0F17"/>
-<img src="https://img.shields.io/badge/DataGrip-b26c86?style=flat-square&logoColor=0C0F17"/>
-<img src="https://img.shields.io/badge/Spring_Boot-868092?style=flat-square&logoColor=e2c2d2"/>
-<img src="https://img.shields.io/badge/Git-868092?style=flat-square&logoColor=e2c2d2"/>
-<img src="https://img.shields.io/badge/Unity-868092?style=flat-square&logoColor=e2c2d2"/>
-<img src="https://img.shields.io/badge/Cisco_CCNA-4b3d4f?style=flat-square&logoColor=e2c2d2"/>
-<img src="https://img.shields.io/badge/TryHackMe-4b3d4f?style=flat-square&logoColor=e2c2d2"/>
-<img src="https://img.shields.io/badge/Photoshop-4b3d4f?style=flat-square&logoColor=e2c2d2"/>
+  <img src="./skills.svg" alt="skills" width="100%"/>
 </p>
 
-<br>
-
-<p align="center"><sub>⋆˚✰ ݁˖⭑.ᐟ · · · · · · · · · · · · · · · · · · · · · · · · .ᐟ⭑˖ ݁ ✰˚⋆</sub></p>
+<p align="right"><sub>⋆˚✰ ݁˖⭑.ᐟ · · · · · · · · · · · · · · · · · · · · · · · · .ᐟ⭑˖ ݁ ✰˚⋆</sub></p>
 
 <br>
 
