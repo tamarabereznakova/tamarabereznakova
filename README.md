@@ -12,18 +12,16 @@
 
 ### ˚ ༘ about me
 
-```js
-// about me
+```
+  . · . · . · . · . · . · . · . · . · . · . · . · . · .
 
-const tamara = {
-  study : "3rd yr Cybersecurity @ TUKE, Košice",
-  focus : "network security · software · game dev",
-  teach : "kids to code @ Algonova",
-  loves : "astrophysics · pixel art · nature · design",
-  loc   : "planet Earth",
-}
+      ╰─  study  ──›  3rd yr Cybersecurity @ TUKE, Košice
+      ╰─  focus  ──›  network security · software · game dev
+      ╰─  teach  ──›  kids to code @ Algonova
+      ╰─  loves  ──›  astrophysics · pixel art · nature · design
+      ╰─  loc    ──›  planet Earth
 
-// currently: figuring it out ✦
+               . . . ≀ currently: figuring it out ✦ ≀ . . .
 ```
 
 ---
@@ -31,10 +29,29 @@ const tamara = {
 ### ✦ projects
 
 ```
-  [web]   portfolio      →  tamarabereznakova.github.io     < HTML · CSS · JS >
-  [java]  slitherlink    →  slitherlinko.onrender.com       < Java · Spring Boot · PostgreSQL >
-  [py]    it4kt-builder  →  github.com/tamarabereznakova    < Python >
-  [unity] pixel art game →  in progress ...                 < Unity · C# >
+        ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·
+
+   ┌─[web]──────────────────────────────────────────────┐
+   │  portfolio  ·  tamarabereznakova.github.io         │
+   │                              { HTML · CSS · JS }   │
+   └────────────────────────────────────────────────────┘
+        ╎
+   ┌─[java]─────────────────────────────────────────────┐
+   │  slitherlink  ·  slitherlinko.onrender.com         │
+   │              { Java · Spring Boot · PostgreSQL }   │
+   └────────────────────────────────────────────────────┘
+        ╎
+   ┌─[python]───────────────────────────────────────────┐
+   │  it4kt-builder  ·  github.com/tamarabereznakova    │
+   │                                      { Python }    │
+   └────────────────────────────────────────────────────┘
+        ╎
+   ┌─[unity]────────────────────────────────────────────┐
+   │  pixel art game  ·  in progress ...          ◌     │
+   │                                   { Unity · C# }   │
+   └────────────────────────────────────────────────────┘
+
+        ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·
 ```
 
 ---
@@ -86,6 +103,7 @@ const tamara = {
 </p>
 
 <br>
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&color=0C0F17,4b3d4f,b26c86&height=60&section=footer&reversal=true" width="100%"/>
 </p>
