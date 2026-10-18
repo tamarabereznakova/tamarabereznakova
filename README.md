@@ -4,7 +4,9 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=DM+Sans&size=15&duration=3000&pause=800&color=b26c86&center=true&vCenter=true&width=500&lines=studying+security+%E2%9C%A6;building+things+from+scratch+%E2%9C%A6;figuring+it+out+%E2%9C%A6;planet+Earth+%F0%9F%90%88" alt="Typing SVG" />
 </p>
-<p align="center">✦ · · · · · · · · · ✿ · · · · · · · · · ✦ · · · · · · · · · ✿ · · · · · · · · · ✦</p>
+<p align="center">
+<sub>· · · ✦ · · · ✿ · · · ✧ · · · ✦ · · · ✿ · · · ✧ · · · ✦ · · ·</sub>
+</p>
 <p align="center">
   <img src="./about-me.svg" alt="about me" width="100%"/>
 </p>
@@ -12,8 +14,6 @@
 <p align="center">
   <img src="./projects.svg"/>
 </p>
-
-<p align="center">✦ · · · · · · · · · ✿ · · · · · · · · · ✦ · · · · · · · · · ✿ · · · · · · · · · ✦</p>
 
 ### ˚ ༘ skills
 
@@ -35,7 +35,9 @@
 <img src="https://img.shields.io/badge/Photoshop-4b3d4f?style=flat-square&logoColor=e2c2d2"/>
 </p>
 
-<p align="center">✿ · · · · · · · · · ✦ · · · · · · · · · ✧ · · · · · · · · · ✿ · · · · · · · · · ✦</p>
+<p align="center">
+<sub>· · · ✦ · · · ✿ · · · ✧ · · · ✦ · · · ✿ · · · ✧ · · · ✦ · · ·</sub>
+</p>
 
 <p align="center">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=tamarabereznakova&show_icons=true&hide_border=true&bg_color=0d0914&title_color=b26c86&icon_color=868092&text_color=e2c2d2&hide=contribs&ring_color=4b3d4f"/>
@@ -48,7 +50,7 @@
 </p>
 
 <p align="center">
-  ### ✦ find me
+  *ੈ✩‧₊˚༺✦ find me here ☆༻*ੈ✩‧₊˚
 </p>
 <p align="center">
   <a href="https://linkedin.com/in/tamara-bereznakova">
