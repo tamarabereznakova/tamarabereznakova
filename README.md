@@ -8,52 +8,84 @@
 
 <br>
 
----
+<p align="center">✦ · · · · · · · · · ✿ · · · · · · · · · ✦ · · · · · · · · · ✿ · · · · · · · · · ✦</p>
+
+<br>
 
 ### ˚ ༘ about me
 
+```diff
++ ╭───────────────────────────────────────────────────────╮
++ │                                                       │
++ │   study  ──›  3rd yr Cybersecurity @ TUKE, Košice    │
++ │   focus  ──›  network security · software · game dev  │
++ │   teach  ──›  kids to code @ Algonova                │
++ │   loves  ──›  astrophysics · pixel art · design      │
++ │   loc    ──›  planet Earth                           │
++ │                                                       │
++ │             ≀ figuring it out ✦ ≀                    │
++ ╰───────────────────────────────────────────────────────╯
 ```
-╭──────────────────────────────────────────────────╮
-│                                                  │
-│   🎓  3rd year Cybersecurity @ TUKE, Košice      │
-│   🔐  network security · software · game dev     │
-│   🌿  teaching kids to code @ Algonova           │
-│   🪐  astrophysics · nature · design · pixel art │
-│   🐈  planet Earth                               │
-│                                                  │
-╰──────────────────────────────────────────────────╯
-```
+
+<p align="right">
+<sub>· · · ✿ · · · ✦ · · · ✧ · · · ✿ · · · ✦ · · ·</sub>
+</p>
+
+<br>
 
 ---
 
 ### ✦ projects
 
+```diff
+- ╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌
++ [web]   portfolio      ──›  tamarabereznakova.github.io
++                                        { HTML · CSS · JS }
+- ╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌
++ [java]  slitherlink    ──›  slitherlinko.onrender.com
++                           { Java · Spring Boot · PostgreSQL }
+- ╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌
++ [py]    it4kt-builder  ──›  github.com/tamarabereznakova
++                                              { Python }
+- ╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌
++ [unity] pixel art game ──›  in progress  ◌ ◌ ◌
++                                          { Unity · C# }
+- ╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌
 ```
-  🌐  portfolio      →  tamarabereznakova.github.io     [ HTML · CSS · JS ]
-  🐍  slitherlink    →  slitherlinko.onrender.com       [ Java · Spring Boot · PostgreSQL ]
-  📚  it4kt-builder  →  github.com/tamarabereznakova    [ Python ]
-  🎮  pixel art game →  in progress ...                 [ Unity · C# ]
-```
+
+<p align="right">
+<sub>· · · ✦ · · · ✧ · · · ✿ · · · ✦ · · · ✧ · · ·</sub>
+</p>
+
+<br>
 
 ---
 
 ### ˚ ༘ skills
 
-![Java](https://img.shields.io/badge/Java-e2c2d2?style=flat-square&logoColor=0C0F17)
-![Python](https://img.shields.io/badge/Python-e2c2d2?style=flat-square&logoColor=0C0F17)
-![JavaScript](https://img.shields.io/badge/JavaScript-e2c2d2?style=flat-square&logoColor=0C0F17)
-![C](https://img.shields.io/badge/C-e2c2d2?style=flat-square&logoColor=0C0F17)
-![HTML](https://img.shields.io/badge/HTML-e2c2d2?style=flat-square&logoColor=0C0F17)
-![CSS](https://img.shields.io/badge/CSS-e2c2d2?style=flat-square&logoColor=0C0F17)
-![SQL](https://img.shields.io/badge/SQL-b26c86?style=flat-square&logoColor=0C0F17)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-b26c86?style=flat-square&logoColor=0C0F17)
-![DataGrip](https://img.shields.io/badge/DataGrip-b26c86?style=flat-square&logoColor=0C0F17)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-868092?style=flat-square&logoColor=0C0F17)
-![Git](https://img.shields.io/badge/Git-868092?style=flat-square&logoColor=0C0F17)
-![Unity](https://img.shields.io/badge/Unity-868092?style=flat-square&logoColor=0C0F17)
-![Cisco CCNA](https://img.shields.io/badge/Cisco_CCNA-4b3d4f?style=flat-square&logoColor=e2c2d2)
-![TryHackMe](https://img.shields.io/badge/TryHackMe-4b3d4f?style=flat-square&logoColor=e2c2d2)
-![Photoshop](https://img.shields.io/badge/Photoshop-4b3d4f?style=flat-square&logoColor=e2c2d2)
+<p align="center">
+<img src="https://img.shields.io/badge/Java-e2c2d2?style=flat-square&logoColor=0C0F17"/>
+<img src="https://img.shields.io/badge/Python-e2c2d2?style=flat-square&logoColor=0C0F17"/>
+<img src="https://img.shields.io/badge/JavaScript-e2c2d2?style=flat-square&logoColor=0C0F17"/>
+<img src="https://img.shields.io/badge/C-e2c2d2?style=flat-square&logoColor=0C0F17"/>
+<img src="https://img.shields.io/badge/HTML-e2c2d2?style=flat-square&logoColor=0C0F17"/>
+<img src="https://img.shields.io/badge/CSS-e2c2d2?style=flat-square&logoColor=0C0F17"/>
+<img src="https://img.shields.io/badge/SQL-b26c86?style=flat-square&logoColor=0C0F17"/>
+<img src="https://img.shields.io/badge/PostgreSQL-b26c86?style=flat-square&logoColor=0C0F17"/>
+<img src="https://img.shields.io/badge/DataGrip-b26c86?style=flat-square&logoColor=0C0F17"/>
+<img src="https://img.shields.io/badge/Spring_Boot-868092?style=flat-square&logoColor=e2c2d2"/>
+<img src="https://img.shields.io/badge/Git-868092?style=flat-square&logoColor=e2c2d2"/>
+<img src="https://img.shields.io/badge/Unity-868092?style=flat-square&logoColor=e2c2d2"/>
+<img src="https://img.shields.io/badge/Cisco_CCNA-4b3d4f?style=flat-square&logoColor=e2c2d2"/>
+<img src="https://img.shields.io/badge/TryHackMe-4b3d4f?style=flat-square&logoColor=e2c2d2"/>
+<img src="https://img.shields.io/badge/Photoshop-4b3d4f?style=flat-square&logoColor=e2c2d2"/>
+</p>
+
+<br>
+
+<p align="center">✿ · · · · · · · · · ✦ · · · · · · · · · ✧ · · · · · · · · · ✿ · · · · · · · · · ✦</p>
+
+<br>
 
 ---
 
@@ -61,9 +93,15 @@
 
 <p align="center">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=tamarabereznakova&show_icons=true&hide_border=true&bg_color=0d0914&title_color=b26c86&icon_color=868092&text_color=e2c2d2&hide=contribs&ring_color=4b3d4f"/>
-  &nbsp;
+  &nbsp;&nbsp;
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamarabereznakova&layout=compact&hide_border=true&bg_color=0d0914&title_color=b26c86&text_color=e2c2d2&langs_count=6"/>
 </p>
+
+<p align="center">
+<sub>· · · ✦ · · · ✿ · · · ✧ · · · ✦ · · · ✿ · · · ✧ · · · ✦ · · ·</sub>
+</p>
+
+<br>
 
 ---
 
@@ -82,6 +120,10 @@
     <img src="https://img.shields.io/badge/portfolio-868092?style=for-the-badge&logo=firefox&logoColor=e2c2d2"/>
   </a>
 </p>
+
+<br>
+
+<p align="center">✦ · · · · · · · · · ✿ · · · · · · · · · ✦ · · · · · · · · · ✿ · · · · · · · · · ✦</p>
 
 <br>
 
