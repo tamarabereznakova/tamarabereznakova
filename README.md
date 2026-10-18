@@ -13,15 +13,15 @@
 ### ˚ ༘ about me
 
 ```
-  . · . · . · . · . · . · . · . · . · . · . · . · . · .
-
-      ╰─  study  ──›  3rd yr Cybersecurity @ TUKE, Košice
-      ╰─  focus  ──›  network security · software · game dev
-      ╰─  teach  ──›  kids to code @ Algonova
-      ╰─  loves  ──›  astrophysics · pixel art · nature · design
-      ╰─  loc    ──›  planet Earth
-
-               . . . ≀ currently: figuring it out ✦ ≀ . . .
+╭──────────────────────────────────────────────────╮
+│                                                  │
+│   🎓  3rd year Cybersecurity @ TUKE, Košice      │
+│   🔐  network security · software · game dev     │
+│   🌿  teaching kids to code @ Algonova           │
+│   🪐  astrophysics · nature · design · pixel art │
+│   🐈  planet Earth                               │
+│                                                  │
+╰──────────────────────────────────────────────────╯
 ```
 
 ---
@@ -29,29 +29,10 @@
 ### ✦ projects
 
 ```
-        ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·
-
-   ┌─[web]──────────────────────────────────────────────┐
-   │  portfolio  ·  tamarabereznakova.github.io         │
-   │                              { HTML · CSS · JS }   │
-   └────────────────────────────────────────────────────┘
-        ╎
-   ┌─[java]─────────────────────────────────────────────┐
-   │  slitherlink  ·  slitherlinko.onrender.com         │
-   │              { Java · Spring Boot · PostgreSQL }   │
-   └────────────────────────────────────────────────────┘
-        ╎
-   ┌─[python]───────────────────────────────────────────┐
-   │  it4kt-builder  ·  github.com/tamarabereznakova    │
-   │                                      { Python }    │
-   └────────────────────────────────────────────────────┘
-        ╎
-   ┌─[unity]────────────────────────────────────────────┐
-   │  pixel art game  ·  in progress ...          ◌     │
-   │                                   { Unity · C# }   │
-   └────────────────────────────────────────────────────┘
-
-        ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·
+  🌐  portfolio      →  tamarabereznakova.github.io     [ HTML · CSS · JS ]
+  🐍  slitherlink    →  slitherlinko.onrender.com       [ Java · Spring Boot · PostgreSQL ]
+  📚  it4kt-builder  →  github.com/tamarabereznakova    [ Python ]
+  🎮  pixel art game →  in progress ...                 [ Unity · C# ]
 ```
 
 ---
