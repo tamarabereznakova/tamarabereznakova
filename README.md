@@ -4,33 +4,14 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=DM+Sans&size=15&duration=3000&pause=800&color=b26c86&center=true&vCenter=true&width=500&lines=studying+security+%E2%9C%A6;building+things+from+scratch+%E2%9C%A6;figuring+it+out+%E2%9C%A6;planet+Earth+%F0%9F%90%88" alt="Typing SVG" />
 </p>
-
 <p align="center">✦ · · · · · · · · · ✿ · · · · · · · · · ✦ · · · · · · · · · ✿ · · · · · · · · · ✦</p>
-
-### ˚ ༘ about me
 <p align="center">
   <img src="./about-me.svg" alt="about me" width="100%"/>
 </p>
 
-<p align="center">✦ · · · · · · · · · ✿ · · · · · · · · · ✦ · · · · · · · · · ✿ · · · · · · · · · ✦</p>
-
-### ✦ projects
-
-```
-  ╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌
-  [web]   portfolio      ──›  tamarabereznakova.github.io
-                                       { HTML · CSS · JS }
-  ╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌
-  [java]  slitherlink    ──›  slitherlinko.onrender.com
-                          { Java · Spring Boot · PostgreSQL }
-  ╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌
-  [py]    it4kt-builder  ──›  github.com/tamarabereznakova
-                                             { Python }
-  ╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌
-  [unity] pixel art game ──›  in progress  ◌ ◌ ◌
-                                         { Unity · C# }
-  ╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌
-```
+<p align="center">
+  <img src="./projects.svg"/>
+</p>
 
 <p align="center">✦ · · · · · · · · · ✿ · · · · · · · · · ✦ · · · · · · · · · ✿ · · · · · · · · · ✦</p>
 
@@ -56,8 +37,6 @@
 
 <p align="center">✿ · · · · · · · · · ✦ · · · · · · · · · ✧ · · · · · · · · · ✿ · · · · · · · · · ✦</p>
 
-### ✦ github stats
-
 <p align="center">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=tamarabereznakova&show_icons=true&hide_border=true&bg_color=0d0914&title_color=b26c86&icon_color=868092&text_color=e2c2d2&hide=contribs&ring_color=4b3d4f"/>
   &nbsp;&nbsp;
@@ -68,7 +47,6 @@
 <sub>· · · ✦ · · · ✿ · · · ✧ · · · ✦ · · · ✿ · · · ✧ · · · ✦ · · ·</sub>
 </p>
 
----
 ### ✦ find me
 
 <p align="center">
@@ -88,9 +66,3 @@
 <br>
 
 <p align="center">✦ · · · · · · · · · ✿ · · · · · · · · · ✦ · · · · · · · · · ✿ · · · · · · · · · ✦</p>
-
-<br>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0C0F17,4b3d4f,b26c86&height=60&section=footer&reversal=true" width="100%"/>
-</p>
