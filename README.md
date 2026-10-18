@@ -8,7 +8,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&color=0C0F17,1a0f22&height=2&section=header" width="80%"/>
 </p>
-## ˚ ༘ about me
+# ˚ ༘ about me
  
 ```
   🎓  3rd year Cybersecurity student @ TUKE, Košice
@@ -21,7 +21,7 @@
 <br>
 <p align="center">· · · ✦ · · · ✧ · · · ★ · · · ✧ · · · ✦ · · ·</p>
 <br>
-## ✦ projects
+# ✦ projects
  
 <table>
 <tr>
@@ -48,7 +48,7 @@
 <br>
 <p align="center">· · · ✦ · · · ✧ · · · ★ · · · ✧ · · · ✦ · · ·</p>
 <br>
-## ˚ ༘ skills
+# ˚ ༘ skills
  
 <div align="center">
 | languages | databases | networking | security | tools |
@@ -61,7 +61,7 @@
 <br>
 <p align="center">· · · ✦ · · · ✧ · · · ★ · · · ✧ · · · ✦ · · ·</p>
 <br>
-## ✦ github stats
+# ✦ github stats
  
 <div align="center">
 <img height="155" src="https://github-readme-stats.vercel.app/api?username=tamarabereznakova&show_icons=true&hide_border=true&bg_color=0d0914&title_color=b26c86&icon_color=868092&text_color=e2c2d2&hide=contribs&ring_color=4b3d4f"/>
@@ -71,7 +71,7 @@
 <br>
 <p align="center">· · · ✦ · · · ✧ · · · ★ · · · ✧ · · · ✦ · · ·</p>
 <br>
-## ✦ find me
+# ✦ find me
  
 <div align="center">
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-4b3d4f?style=for-the-badge&logo=linkedin&logoColor=e2c2d2)](https://linkedin.com/in/tamara-bereznakova)
