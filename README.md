@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./header (4).svg" alt="tamara berezňáková" width="100%"/>
+  <img src="./header (5).svg" alt="tamara berezňáková" width="100%"/>
 </p>
 
 <p align="center">
