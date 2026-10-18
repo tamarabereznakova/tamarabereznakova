@@ -1,8 +1,6 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0C0F17,4b3d4f,b26c86,e2c2d2&height=180&section=header&text=tamara%20berezňáková&fontSize=38&fontColor=ede0e8&fontAlignY=45&desc=cybersecurity%20·%20software%20·%20games&descAlignY=65&descColor=868092&animation=fadeIn" width="100%"/>
-
-</div>
+<p align="center">
+  <img src="./header.svg" alt="tamara berezňáková" />
+</p>
 
 <br>
 
