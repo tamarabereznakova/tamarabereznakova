@@ -49,6 +49,8 @@
 
 <p align="center">
   ### ✦ find me
+</p>
+<p align="center">
   <a href="https://linkedin.com/in/tamara-bereznakova">
     <img src="https://img.shields.io/badge/LinkedIn-4b3d4f?style=for-the-badge&logo=linkedin&logoColor=e2c2d2"/>
   </a>
