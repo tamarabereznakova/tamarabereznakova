@@ -1,39 +1,18 @@
 <p align="center">
   <img src="./header.svg" alt="tamara berezňáková" width="100%"/>
 </p>
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=DM+Sans&size=15&duration=3000&pause=800&color=b26c86&center=true&vCenter=true&width=500&lines=studying+security+%E2%9C%A6;building+things+from+scratch+%E2%9C%A6;figuring+it+out+%E2%9C%A6;planet+Earth+%F0%9F%90%88" alt="Typing SVG" />
 </p>
 
-<br>
-
 <p align="center">✦ · · · · · · · · · ✿ · · · · · · · · · ✦ · · · · · · · · · ✿ · · · · · · · · · ✦</p>
 
-<br>
-
 ### ˚ ༘ about me
-
-```
-  ╭───────────────────────────────────────────────────────╮
-  │                                                       │
-  │   study  ──›  3rd yr Cybersecurity @ TUKE, Košice    │
-  │   focus  ──›  network security · software · game dev │
-  │   teach  ──›  kids to code @ Algonova                │
-  │   loves  ──›  astrophysics · pixel art · design      │
-  │   loc    ──›  planet Earth                           │
-  │                                                       │
-  │              ≀ figuring it out ✦ ≀                   │
-  ╰───────────────────────────────────────────────────────╯
-```
-
-<p align="right">
-<sub>· · · ✿ · · · ✦ · · · ✧ · · · ✿ · · · ✦ · · ·</sub>
+<p align="center">
+  <img src="./about-me.svg" alt="about me" width="100%"/>
 </p>
 
-<br>
-
----
+<p align="center">✦ · · · · · · · · · ✿ · · · · · · · · · ✦ · · · · · · · · · ✿ · · · · · · · · · ✦</p>
 
 ### ✦ projects
 
@@ -53,13 +32,7 @@
   ╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌
 ```
 
-<p align="right">
-<sub>· · · ✦ · · · ✧ · · · ✿ · · · ✦ · · · ✧ · · ·</sub>
-</p>
-
-<br>
-
----
+<p align="center">✦ · · · · · · · · · ✿ · · · · · · · · · ✦ · · · · · · · · · ✿ · · · · · · · · · ✦</p>
 
 ### ˚ ༘ skills
 
@@ -81,13 +54,7 @@
 <img src="https://img.shields.io/badge/Photoshop-4b3d4f?style=flat-square&logoColor=e2c2d2"/>
 </p>
 
-<br>
-
 <p align="center">✿ · · · · · · · · · ✦ · · · · · · · · · ✧ · · · · · · · · · ✿ · · · · · · · · · ✦</p>
-
-<br>
-
----
 
 ### ✦ github stats
 
@@ -101,10 +68,7 @@
 <sub>· · · ✦ · · · ✿ · · · ✧ · · · ✦ · · · ✿ · · · ✧ · · · ✦ · · ·</sub>
 </p>
 
-<br>
-
 ---
-
 ### ✦ find me
 
 <p align="center">
