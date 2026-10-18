@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0C0F17,4b3d4f,b26c86&height=200&section=header&text=tamara%20berezňáková&fontSize=36&fontColor=e2c2d2&fontAlignY=38&desc=cybersecurity%20·%20software%20·%20games&descAlignY=58&descColor=868092" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0C0F17,4b3d4f,b26c86,e2c2d2&height=180&section=header&text=tamara%20berezňáková&fontSize=38&fontColor=ede0e8&fontAlignY=45&desc=cybersecurity%20·%20software%20·%20games&descAlignY=65&descColor=868092&animation=fadeIn" width="100%"/>
 
 </div>
 
@@ -8,34 +8,57 @@
 
 <div align="center">
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=DM+Sans&size=16&duration=3000&pause=800&color=b26c86&center=true&vCenter=true&width=500&lines=studying+security+%E2%9C%A6;building+things+from+scratch+%E2%9C%A6;figuring+it+out+%E2%9C%A6;planet+Earth+%F0%9F%90%88)](https://git.io/typing-svg)
+
 </div>
 
 <br>
+✦ · · · · · · · · · ✧ · · · · · · · · · ★ · · · · · · · · · ✦
 
-## ˚ ༘ ⋆｡˚ about me
+## ˚ ༘ about me
 
 - 🎓 3rd year **Cybersecurity** student @ TUKE, Košice
-- 🔐 interested in network security, software & game dev
+- 🔐 network security · software engineering · game dev
 - 🌿 teaching kids to code @ Algonova
-- 🪐 passionate about astrophysics, nature & design
+- 🪐 astrophysics · nature · design · pixel art
 - 🐈 planet Earth
 
 <br>
+· · · ✦ · · · ✧ · · · ★ milky way ★ · · · ✧ · · · ✦ · · ·
 
 ## ✦ projects
 
-| project | description | stack |
-|--------|-------------|-------|
-| [🌐 portfolio](https://tamarabereznakova.github.io/web-site/) | personal portfolio site | HTML · CSS · JS |
-| [🐍 slitherlink](https://slitherlinko.onrender.com/) | online multiplayer puzzle game | Java · Spring Boot · PostgreSQL |
-| [📚 it4kt-builder](https://github.com/tamarabereznakova/it4kt-builder) | study material generator | Python |
-| [🎮 2D pixel art game](#) | indie game in progress | Unity |
+| | project | stack |
+|---|---------|-------|
+| 🌐 | [**portfolio**](https://tamarabereznakova.github.io/web-site/) | HTML · CSS · JS |
+| 🐍 | [**slitherlink**](https://slitherlinko.onrender.com/) | Java · Spring Boot · PostgreSQL |
+| 📚 | [**it4kt-builder**](https://github.com/tamarabereznakova/it4kt-builder) | Python |
+| 🎮 | **2D pixel art game** *(in progress)* | Unity |
 
 <br>
+· · · ✦ · · · ✧ · · · ★ · · · ✧ · · · ✦ · · · ✧ · · · ✦ · ·
 
-## ˚ ༘ ⋆｡˚ skills
+## ˚ ༘ skills
+languages → Java · Python · C · JavaScript · HTML · CSS
+databases → SQL · PostgreSQL · DataGrip
+networking → Cisco · CCNA 1, 2, 3
+security → cryptography · network security · CTF (TryHackMe)
+tools → Git · Spring Boot · Unity · Photoshop · DaVinci
+<br>
+· · · ✦ · · · ✧ · · · ★ milky way ★ · · · ✧ · · · ✦ · · ·
+
+## ✦ github stats
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=tamarabereznakova&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0C0F17&title_color=b26c86&icon_color=868092&text_color=e2c2d2&hide=contribs"/>
+
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamarabereznakova&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0C0F17&title_color=b26c86&text_color=e2c2d2"/>
+
+</div>
 
 <br>
+· · · ✦ · · · ✧ · · · ★ · · · ✧ · · · ✦ · · · ✧ · · · ✦ · ·
 
 ## ✦ find me
 
@@ -47,8 +70,6 @@
 
 </div>
 
-<br>
-
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0C0F17,4b3d4f,b26c86&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0C0F17,4b3d4f,b26c86&height=80&section=footer&reversal=true" width="100%"/>
 </div>
