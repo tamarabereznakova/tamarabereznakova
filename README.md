@@ -14,17 +14,17 @@
 
 ### ˚ ༘ about me
 
-```diff
-+ ╭───────────────────────────────────────────────────────╮
-+ │                                                       │
-+ │   study  ──›  3rd yr Cybersecurity @ TUKE, Košice    │
-+ │   focus  ──›  network security · software · game dev  │
-+ │   teach  ──›  kids to code @ Algonova                │
-+ │   loves  ──›  astrophysics · pixel art · design      │
-+ │   loc    ──›  planet Earth                           │
-+ │                                                       │
-+ │             ≀ figuring it out ✦ ≀                    │
-+ ╰───────────────────────────────────────────────────────╯
+```
+  ╭───────────────────────────────────────────────────────╮
+  │                                                       │
+  │   study  ──›  3rd yr Cybersecurity @ TUKE, Košice    │
+  │   focus  ──›  network security · software · game dev │
+  │   teach  ──›  kids to code @ Algonova                │
+  │   loves  ──›  astrophysics · pixel art · design      │
+  │   loc    ──›  planet Earth                           │
+  │                                                       │
+  │              ≀ figuring it out ✦ ≀                   │
+  ╰───────────────────────────────────────────────────────╯
 ```
 
 <p align="right">
@@ -37,20 +37,20 @@
 
 ### ✦ projects
 
-```diff
-- ╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌
-+ [web]   portfolio      ──›  tamarabereznakova.github.io
-+                                        { HTML · CSS · JS }
-- ╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌
-+ [java]  slitherlink    ──›  slitherlinko.onrender.com
-+                           { Java · Spring Boot · PostgreSQL }
-- ╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌
-+ [py]    it4kt-builder  ──›  github.com/tamarabereznakova
-+                                              { Python }
-- ╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌
-+ [unity] pixel art game ──›  in progress  ◌ ◌ ◌
-+                                          { Unity · C# }
-- ╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌
+```
+  ╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌
+  [web]   portfolio      ──›  tamarabereznakova.github.io
+                                       { HTML · CSS · JS }
+  ╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌
+  [java]  slitherlink    ──›  slitherlinko.onrender.com
+                          { Java · Spring Boot · PostgreSQL }
+  ╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌
+  [py]    it4kt-builder  ──›  github.com/tamarabereznakova
+                                             { Python }
+  ╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌
+  [unity] pixel art game ──›  in progress  ◌ ◌ ◌
+                                         { Unity · C# }
+  ╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌
 ```
 
 <p align="right">
